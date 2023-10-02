@@ -26,38 +26,21 @@ class Solution {
         q.add(new Pair(i, j));
         int n = grid.length;
         int m = grid[0].length;
+        int[] dy = {-1, 1, 0, 0};
+        int[] dx = {0, 0, -1, 1};
 
         while(!q.isEmpty()) {
             int row = q.peek().row;
             int col = q.peek().col;
             q.remove();
-            int nr = row - 1;
-            int nc = col;
-            if(nr >= 0 && nr < n && nc >= 0 && nc < m
+            for(int k = 0; k < 4; k++) {
+              int nr = row + dy[k];
+              int nc = col + dx[k];
+              if(nr >= 0 && nr < n && nc >= 0 && nc < m
                && grid[nr][nc] == '1' && !vis[nr][nc]) {
                 vis[nr][nc] = true;
                 q.add(new Pair(nr, nc));
-            }
-            nr = row + 1;
-            nc = col;
-            if(nr >= 0 && nr < n && nc >= 0 && nc < m
-               && grid[nr][nc] == '1' && !vis[nr][nc]) {
-                vis[nr][nc] = true;
-                q.add(new Pair(nr, nc));
-            }
-            nr = row;
-            nc = col - 1;
-            if(nr >= 0 && nr < n && nc >= 0 && nc < m
-               && grid[nr][nc] == '1' && !vis[nr][nc]) {
-                vis[nr][nc] = true;
-                q.add(new Pair(nr, nc));
-            }
-            nr = row;
-            nc = col + 1;
-            if(nr >= 0 && nr < n && nc >= 0 && nc < m
-               && grid[nr][nc] == '1' && !vis[nr][nc]) {
-                vis[nr][nc] = true;
-                q.add(new Pair(nr, nc));
+              }
             }
         }
     }
