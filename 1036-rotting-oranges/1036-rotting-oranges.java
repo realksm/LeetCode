@@ -22,7 +22,7 @@ class Solution {
             int r = q.peek()[0];
             int c = q.peek()[1];
             int t = q.poll()[2];
-            tm = Math.max(tm, t);
+            tm = t;
 
             for(int k = 0; k < 4; k++) {
                 int nr = r + dy[k];
