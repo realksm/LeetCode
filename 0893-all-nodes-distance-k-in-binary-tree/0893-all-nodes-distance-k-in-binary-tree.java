@@ -21,32 +21,28 @@ class Solution {
             res.add(root.val);
             return 0;
         }
-
-        int left, right;
         if(root.val == target || depth > 0) {
-            left = dfs(res, root.left, target, k, depth + 1);
-            right = dfs(res, root.right, target, k, depth + 1);
+            dfs(res, root.left, target, k, depth + 1);
+            dfs(res, root.right, target, k, depth + 1);
         } else {
-            left = dfs(res, root.left, target, k, depth);
-            right = dfs(res, root.right, target, k, depth);
+            int left = dfs(res, root.left, target, k, depth);
+            int right = dfs(res, root.right, target, k, depth);
+            if(left == k || right == k) {
+                res.add(root.val);
+                return 0;
+            } else if(left > 0) {
+                dfs(res, root.right, target, k, left + 1);
+                return left + 1;
+            } else if(right > 0) {
+                dfs(res, root.left, target, k, right + 1);
+                return right + 1;
+            }
         }
 
-        if(root.val == target) return 1;
-
-        if(left == k || right == k) {
-            res.add(root.val);
-            return 0;
+        if(root.val == target) {
+            return 1;
         }
 
-        if(left > 0) {
-            dfs(res, root.right, target, k, left + 1);
-            return left + 1;
-        }
-
-        if(right > 0) {
-            dfs(res, root.left, target, k, right + 1);
-            return right + 1;
-        }
         return 0;
     }
 }
