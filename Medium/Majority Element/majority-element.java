@@ -33,22 +33,22 @@ class Solution
 {
     static int majorityElement(int a[], int size)
     {
-        int maj = 0;
+        int maj = a[0];
         int cnt = 1;
         
         for(int i = 1; i < size; i++) {
-            if(a[i] == a[maj]) {
+            if(a[i] == maj) {
                 cnt++;
             } else {
                 cnt--;
             }
             if(cnt == 0) {
-                maj = i;
+                maj = a[i];
                 cnt = 1;
             }
         }
         
-        int maj_elem = a[maj];
+        int maj_elem = maj;
         cnt = 0;
         for(int i : a) {
             if(i == maj_elem) cnt++;
