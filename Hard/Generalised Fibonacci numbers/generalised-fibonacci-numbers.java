@@ -28,12 +28,14 @@ class GFG {
 
 //User function Template for Java
 
+
+
+//User function Template for Java
+
 class Solution {
-     static long genFibNum(Long a, Long b, Long c, long n, long m) {
-        // code here
-         if (n <= 2) 
-         {
-            return 1 % m;
+    static long genFibNum(Long a, Long b, Long c, long n, long m) {
+        if(n <= 2) {
+            return 1%m;
         }
         
         long[][] mat = 
@@ -51,11 +53,10 @@ class Solution {
         };
         
         n -= 2;
-        while (n > 0) 
-        {
-            if ((n & 1) == 1) 
-            {
-                res = multiply(res, mat, m);
+        
+        while(n > 0) {
+            if((n & 1) == 1) {
+                res = multiply(mat, res, m);
             }
             
             mat = multiply(mat, mat, m);
@@ -64,8 +65,8 @@ class Solution {
         
         return (res[0][0] + res[0][1] + c * res[0][2]) % m;
     }
-     static long[][] multiply(long[][] A, long[][] B, long m) 
-    {
+    
+    static long[][] multiply(long[][] A, long[][] B, long m) {
         int size = A.length;
         long[][] result = new long[size][size];
         for (int i = 0; i < size; ++i) 
