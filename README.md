@@ -11,6 +11,7 @@ Collection of LeetCode questions!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -20,4 +21,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
