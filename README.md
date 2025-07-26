@@ -25,6 +25,7 @@ Collection of LeetCode questions!
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 ## Greedy
 |  |
@@ -34,4 +35,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
