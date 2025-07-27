@@ -8,6 +8,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0058-length-of-last-word](https://github.com/realksm/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
+| [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Math
 |  |
@@ -15,6 +16,7 @@ Collection of LeetCode questions!
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +60,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Sorting
+|  |
+| ------- |
+| [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 <!---LeetCode Topics End-->
