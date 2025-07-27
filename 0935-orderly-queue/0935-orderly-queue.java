@@ -12,7 +12,7 @@ class Solution {
         
         String best = s;
         while(!sb.toString().equals(s)) {
-            if(findBest(best, sb.toString())) best = sb.toString();
+            if(sb.toString().compareTo(best) < 0) best = sb.toString();
             sb.append(sb.charAt(0));
             sb.deleteCharAt(0);
         }
