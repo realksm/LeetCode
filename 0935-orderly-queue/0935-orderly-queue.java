@@ -6,15 +6,12 @@ class Solution {
             return new String(ch);
         }
 
-        StringBuilder sb = new StringBuilder(s);
-        sb.append(sb.charAt(0));
-        sb.deleteCharAt(0);
-        
+        StringBuilder sb = new StringBuilder(s + s);
         String best = s;
-        while(!sb.toString().equals(s)) {
-            if(sb.toString().compareTo(best) < 0) best = sb.toString();
-            sb.append(sb.charAt(0));
-            sb.deleteCharAt(0);
+
+        for(int i = 0; i < s.length(); i++) {
+            String news = sb.substring(i, s.length() + i);
+            if(news.compareTo(best) < 0) best = news; 
         }
 
         return best;
