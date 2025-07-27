@@ -22,14 +22,9 @@ class Solution {
 
     private boolean findBest(String best, String s) {
         int i = 0;
-        while(i < best.length()) {
-            if(best.charAt(i) < s.charAt(i)) {
-                return false;
-            } else if(best.charAt(i) > s.charAt(i)) {
-                return true;
-            }
+        while(best.charAt(i) == s.charAt(i)) {
             i++;
         }
-        return true;
+        return best.charAt(i) > s.charAt(i);
     }
 }
