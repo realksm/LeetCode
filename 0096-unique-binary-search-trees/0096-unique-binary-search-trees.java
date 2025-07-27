@@ -5,9 +5,7 @@ class Solution {
     }
 
     private int dfs(int n, int[] dp) {
-        if(n <= 1) {
-            return (dp[n] = 1);
-        }
+        if(n <= 1) return (dp[n] = 1);
 
         if(dp[n] != 0) return dp[n];
 
