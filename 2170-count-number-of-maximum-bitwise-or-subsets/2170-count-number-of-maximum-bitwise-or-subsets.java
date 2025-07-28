@@ -1,21 +1,16 @@
 class Solution {
-    int[] nums;
-    int count;
-    int maxOr;
     public int countMaxOrSubsets(int[] nums) {
-        maxOr = 0;
-        for(int i : nums) maxOr |= i;
-        this.nums = nums;
-        dfs(0, 0);
-        return count;
-    }
+        int max = 0;
+        int[] dp = new int[1 << 17];
 
-    public void dfs(int i, int currentOr) {
-        if(i == nums.length) {
-            if(currentOr == maxOr) count++;
-            return;
+        dp[0] = 1;
+
+        for(int num : nums) {
+            for(int i = max; i >= 0; i--) {
+                dp[i | num] += dp[i];
+            }
+            max |= num;
         }
-        dfs(i + 1, currentOr);
-        dfs(i + 1, currentOr | nums[i]);
+        return dp[max];
     }
 }
