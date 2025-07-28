@@ -16,6 +16,7 @@ class Solution {
             if(diff < minDiff) {
                 minDiff = diff;
                 p1 = i - 1;
+                if(minDiff == 1) break;
             }
         }
 
