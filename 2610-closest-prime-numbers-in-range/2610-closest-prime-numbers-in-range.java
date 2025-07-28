@@ -4,7 +4,7 @@ class Solution {
 
         List<Integer> primes = new ArrayList<>();
         for(int i = left; i <= right; i++) {
-            if(isPrime[i]) primes.add(i);
+            if(!isPrime[i]) primes.add(i);
         }
 
         if(primes.size() < 2) return new int[] {-1, -1};
@@ -24,14 +24,13 @@ class Solution {
 
     private boolean[] sieve(int n) {
         boolean[] isPrime = new boolean[n];
-        Arrays.fill(isPrime, true);
-        isPrime[0] = false;
-        isPrime[1] = false;
+        isPrime[0] = true;
+        isPrime[1] = true;
 
         for(int i = 2; i * i < n; i++) {
-            if(isPrime[i]) {
+            if(!isPrime[i]) {
                 for(int j = i * i; j < n; j += i) {
-                    isPrime[j] = false;
+                    isPrime[j] = true;
                 }
             }
         }
