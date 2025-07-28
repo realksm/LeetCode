@@ -5,10 +5,7 @@ class Solution {
         // 5 + 3^2  - 1^1
         // 13 + 4^2 - 2^2
         // 25 + 5^2 - 3^2
-        long res = 1;
-        for(int i = 2; i <= n; i++) {
-            res += (i * i) - ((i - 2) * (i - 2));
-        }
-        return res;
+        if(n == 1) return 1;
+        return 2L * n * (n - 1) + 1;
     }
 }
