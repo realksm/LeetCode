@@ -18,6 +18,7 @@ Collection of LeetCode questions!
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
 | [2083-three-divisors](https://github.com/realksm/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/realksm/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/realksm/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
 ## Matrix
 |  |
 | ------- |
@@ -129,4 +131,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/realksm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
