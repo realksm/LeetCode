@@ -27,6 +27,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Simulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions!
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/realksm/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
@@ -67,6 +69,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,4 +112,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/realksm/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Sliding Window
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
