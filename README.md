@@ -17,6 +17,7 @@ Collection of LeetCode questions!
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
+| [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2083-three-divisors](https://github.com/realksm/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/realksm/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/realksm/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
+| [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/realksm/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions!
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
@@ -78,6 +81,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
+| [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Depth-First Search
 |  |
 | ------- |
