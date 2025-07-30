@@ -7,8 +7,9 @@ class Solution {
             if(ch >= '0' && ch <= '9') {
                 curr.append(ch);
             } else if(curr.length() > 0) {
-                while(curr.length() > 1 && curr.charAt(0) == '0') curr.deleteCharAt(0);
-                set.add(curr.toString());
+                int j = 0;
+                while(j < curr.length() && curr.charAt(j) == '0') j++;
+                set.add(curr.toString().substring(j));
                 curr.setLength(0);
             }
         }
