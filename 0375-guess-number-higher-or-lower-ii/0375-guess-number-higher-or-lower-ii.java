@@ -7,6 +7,8 @@ class Solution {
 
     public int minimax(int start, int end) {
         if(start >= end) return 0;
+        if(end - start == 1) return start;
+
         if(dp[start][end] != 0) return dp[start][end];
         int min = Integer.MAX_VALUE;
 
