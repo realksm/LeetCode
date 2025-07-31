@@ -17,6 +17,7 @@ Collection of LeetCode questions!
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0292-nim-game](https://github.com/realksm/LeetCode/tree/master/0292-nim-game) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
@@ -144,10 +145,12 @@ Collection of LeetCode questions!
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/realksm/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/realksm/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/realksm/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
