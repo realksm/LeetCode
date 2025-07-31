@@ -7,12 +7,11 @@ class Solution {
 
     public int minimax(int start, int end) {
         if(start >= end) return 0;
-        if(end - start == 1) return start;
 
         if(dp[start][end] != 0) return dp[start][end];
         int min = Integer.MAX_VALUE;
 
-        for(int i = start; i <= end; i++) {
+        for(int i = (start + end) / 2; i <= end; i++) {
             int left = minimax(start, i - 1);
             int right = minimax(i + 1, end);
             min = Math.min(i + Math.max(left, right), min);
