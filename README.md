@@ -47,6 +47,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/realksm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
