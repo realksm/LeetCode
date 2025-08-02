@@ -60,6 +60,7 @@ Collection of LeetCode questions!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/realksm/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/realksm/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions!
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/realksm/LeetCode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/realksm/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Enumeration
 |  |
@@ -110,6 +112,7 @@ Collection of LeetCode questions!
 | [0324-wiggle-sort-ii](https://github.com/realksm/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +158,7 @@ Collection of LeetCode questions!
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/realksm/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
