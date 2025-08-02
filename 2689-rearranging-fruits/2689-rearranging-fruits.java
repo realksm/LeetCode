@@ -16,7 +16,6 @@ class Solution {
         Collections.sort(list);
         long cost = 0;
         for(int i = 0; i < list.size() / 2; i++) {
-            System.out.println(list.get(i));
             cost += Math.min(list.get(i), min * 2);
         }
         return cost;
