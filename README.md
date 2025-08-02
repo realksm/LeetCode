@@ -100,15 +100,18 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -192,4 +195,16 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/realksm/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
