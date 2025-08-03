@@ -1,5 +1,7 @@
 class Solution {
     public int countPartitions(int[] nums) {
-        return Arrays.stream(nums).sum() % 2 == 0 ? nums.length - 1 : 0;
+        int sum = 0;
+        for(int num: nums) sum += num;
+        return sum % 2 == 0 ? nums.length - 1 : 0;
     }
 }
