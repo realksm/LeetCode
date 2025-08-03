@@ -45,6 +45,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/realksm/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/realksm/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/realksm/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -183,6 +185,7 @@ Collection of LeetCode questions!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/realksm/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1983-maximum-population-year](https://github.com/realksm/LeetCode/tree/master/1983-maximum-population-year) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/realksm/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Brainteaser
 |  |
 | ------- |
