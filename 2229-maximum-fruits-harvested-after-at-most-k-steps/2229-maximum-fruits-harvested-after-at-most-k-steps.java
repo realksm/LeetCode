@@ -16,7 +16,6 @@ class Solution {
         if(right <= start) return start - left <= k;
         if(left >= start) return right - start <= k;
         int leftDist = start - left, rightDist = right - start;
-        int min = Math.min(2 * leftDist + rightDist, 2 * rightDist + leftDist);
-        return min <= k;
+        return Math.min(2 * leftDist + rightDist, 2 * rightDist + leftDist) <= k;
     } 
 }
