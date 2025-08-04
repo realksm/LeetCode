@@ -1,20 +1,39 @@
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-        int ans = 0;
-        Map<Integer, Integer> map = new HashMap<>();
+         Arrays.sort(reservedSeats, (a, b) -> a[0] - b[0]);
 
-        for(int[] rows : reservedSeats) {
-            map.put(rows[0], map.getOrDefault(rows[0], 0) | 1 << rows[1] - 1);
-        }
         int count = 0;
-        for(int seats : map.values()) {
-            if((seats & 0b0111111110) == 0) count += 2;
-            else if((seats & 0b0111100000) == 0 ||
-                    (seats & 0b0001111000) == 0 ||
-                    (seats & 0b0000011110) == 0) {
-                        count++;
-                    }
+        int i = 0;
+        int m = reservedSeats.length;
+
+        while (i < m) {
+            int row = reservedSeats[i][0];
+            int mask = 0;
+
+            // Gather all reserved seats for this row
+            while (i < m && reservedSeats[i][0] == row) {
+                int col = reservedSeats[i][1];
+                mask |= 1 << (col - 1);
+                i++;
+            }
+
+            boolean left = (mask & 0b0000011110) == 0;
+            boolean middle = (mask & 0b0001111000) == 0;
+            boolean right = (mask & 0b0111100000) == 0;
+
+            if (left && right) count += 2;
+            else if (left || middle || right) count += 1;
         }
-        return count + (n - map.size()) * 2;
+
+        // Add 2 families per row not in reservedSeats
+        int usedRows = 0;
+        if (m > 0) {
+            usedRows = (int) Arrays.stream(reservedSeats)
+                                   .mapToInt(seat -> seat[0])
+                                   .distinct()
+                                   .count();
+        }
+
+        return count + (n - usedRows) * 2;
     }
 }
