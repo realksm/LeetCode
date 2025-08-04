@@ -8,6 +8,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0058-length-of-last-word](https://github.com/realksm/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
+| [0459-repeated-substring-pattern](https://github.com/realksm/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions!
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/realksm/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1764-maximum-repeating-substring](https://github.com/realksm/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Design
 |  |
