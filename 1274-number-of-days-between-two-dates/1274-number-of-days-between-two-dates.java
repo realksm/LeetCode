@@ -1,5 +1,5 @@
 class Solution {
-    private int[] days = new int[]{0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+    private static final int[] days = new int[]{0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
     
     public int daysBetweenDates(String date1, String date2) {
         return  Math.abs(days(date1) - days(date2));
