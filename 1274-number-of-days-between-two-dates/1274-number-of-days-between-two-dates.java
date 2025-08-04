@@ -6,9 +6,9 @@ class Solution {
     }
 
     public int days(String date) {
-        int year = Integer.valueOf(date.substring(0, 4));
-        int month = Integer.valueOf(date.substring(5, 7));
-        int day = Integer.valueOf(date.substring(8));
+        int year = parse(date, 0, 4);
+        int month = parse(date, 5, 7);
+        int day = parse(date, 8, date.length());
         int res = 0;
         for(int i = 1971; i < year; i++) res += leap(i) ? 366 : 365;
         for(int i = 0; i < month; i++) res += days[i];
@@ -17,4 +17,12 @@ class Solution {
     }
 
     public boolean leap(int i) { return i % 4 == 0 && i % 100 != 0 || i % 400 == 0; }
+
+    private int parse(String s, int start, int end) {
+        int val = 0;
+        for (int i = start; i < end; i++) {
+            val = val * 10 + (s.charAt(i) - '0');
+        }
+        return val;
+    }
 }
