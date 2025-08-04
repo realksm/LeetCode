@@ -13,6 +13,7 @@ Collection of LeetCode questions!
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
+| [1274-number-of-days-between-two-dates](https://github.com/realksm/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/realksm/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1764-maximum-repeating-substring](https://github.com/realksm/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions!
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
+| [1274-number-of-days-between-two-dates](https://github.com/realksm/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/realksm/LeetCode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2083-three-divisors](https://github.com/realksm/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/realksm/LeetCode/tree/master/2491-smallest-even-multiple) |
