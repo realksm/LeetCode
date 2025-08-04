@@ -6,12 +6,14 @@ class Solution {
     }
 
     public int days(String date) {
-        int[] vals = Arrays.stream(date.split("-")).mapToInt(Integer::parseInt).toArray();
+        int year = Integer.valueOf(date.substring(0, 4));
+        int month = Integer.valueOf(date.substring(5, 7));
+        int day = Integer.valueOf(date.substring(8));
         int res = 0;
-        for(int i = 1971; i < vals[0]; i++) res += leap(i) ? 366 : 365;
-        for(int i = 0; i < vals[1]; i++) res += days[i];
-        if(vals[1] > 2 && leap(vals[0])) res++;
-        return res + vals[2];
+        for(int i = 1971; i < year; i++) res += leap(i) ? 366 : 365;
+        for(int i = 0; i < month; i++) res += days[i];
+        if(month > 2 && leap(year)) res++;
+        return res + day;
     }
 
     public boolean leap(int i) { return i % 4 == 0 && i % 100 != 0 || i % 400 == 0; }
