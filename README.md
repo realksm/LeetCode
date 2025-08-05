@@ -52,6 +52,7 @@ Collection of LeetCode questions!
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions!
 | [3704-count-partitions-with-even-sum-difference](https://github.com/realksm/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/realksm/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/realksm/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions!
 | [0975-range-sum-of-bst](https://github.com/realksm/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/realksm/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -242,4 +245,12 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/realksm/LeetCode/tree/master/1983-maximum-population-year) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
