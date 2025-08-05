@@ -8,6 +8,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0058-length-of-last-word](https://github.com/realksm/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/realksm/LeetCode/tree/master/0091-decode-ways) |
 | [0459-repeated-substring-pattern](https://github.com/realksm/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/realksm/LeetCode/tree/master/0686-repeated-string-match) |
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/realksm/LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
