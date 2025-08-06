@@ -1,8 +1,8 @@
-class SegmentTree {
+class Solution {
     private int n;
     private int[] tree;
-
-    public SegmentTree(int[] arr) {
+    
+    public void build(int[] arr) {
         this.n = arr.length;
         this.tree = new int[n * 4];
         build(arr, 0, 0, n - 1);
@@ -59,15 +59,13 @@ class SegmentTree {
             return query(2 * treeIndex + 2, mid + 1, high, target);
         }
     }
-}
 
-class Solution {
     public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
         int ans = 0;
-        SegmentTree st = new SegmentTree(baskets);
+        build(baskets);
 
         for(int f : fruits) {
-            if(st.query(f) == -1) ans++;
+            if(query(f) == -1) ans++;
         } 
 
         return ans;
