@@ -1,7 +1,6 @@
 class Solution {
-    private double[][] memo;
+    private double[][] memo = new double[200][200];
     public double soupServings(int n) {
-        memo = new double[4000][4000];
         return n >= 4300 ? 1 : dfs((n + 24)/25, (n + 24)/25);
     }
 
