@@ -1,5 +1,5 @@
 class Solution {
-    private double[][] memo = new double[180][180];
+    private double[][] memo = new double[172][172];
     public double soupServings(int n) {
         return n >= 4300 ? 1 : dfs((n + 24)/25, (n + 24)/25);
     }
