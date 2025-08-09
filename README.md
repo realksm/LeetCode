@@ -25,6 +25,7 @@ Collection of LeetCode questions!
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/realksm/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/realksm/LeetCode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/realksm/LeetCode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -272,4 +274,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/realksm/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
