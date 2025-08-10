@@ -1,7 +1,6 @@
 class Solution {
     public boolean reorderedPowerOf2(int n) {
         int targetSignature = digitSignature(n);
-
         for (int i = 0; i < 30; i++) {
             if (digitSignature(1 << i) == targetSignature) {
                 return true;
@@ -13,7 +12,7 @@ class Solution {
     private int digitSignature(int n) {
         int signature = 0;
         while (n > 0) {
-            signature += (int) Math.pow(2, n % 10);
+            signature += 1 << (n % 10);
             n /= 10;
         }
         return signature;
