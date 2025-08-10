@@ -29,6 +29,7 @@ Collection of LeetCode questions!
 | [0292-nim-game](https://github.com/realksm/LeetCode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions!
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/realksm/LeetCode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [2083-three-divisors](https://github.com/realksm/LeetCode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/realksm/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -204,6 +207,7 @@ Collection of LeetCode questions!
 | [0560-subarray-sum-equals-k](https://github.com/realksm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -259,6 +263,7 @@ Collection of LeetCode questions!
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1983-maximum-population-year](https://github.com/realksm/LeetCode/tree/master/1983-maximum-population-year) |
 ## Segment Tree
 |  |
