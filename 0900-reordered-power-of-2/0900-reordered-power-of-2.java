@@ -1,20 +1,21 @@
 class Solution {
     public boolean reorderedPowerOf2(int n) {
-        int[] cnt = digitCount(n);
-        for (int i = 0; i < 31; i++) {
-            if (Arrays.equals(cnt, digitCount(1 << i))) {
+        int targetSignature = digitSignature(n);
+
+        for (int i = 0; i < 30; i++) {
+            if (digitSignature(1 << i) == targetSignature) {
                 return true;
             }
         }
         return false;
     }
 
-    private int[] digitCount(int x) {
-        int[] count = new int[10];
-        while (x > 0) {
-            count[x % 10]++;
-            x /= 10;
+    private int digitSignature(int n) {
+        int signature = 0;
+        while (n > 0) {
+            signature += (int) Math.pow(2, n % 10);
+            n /= 10;
         }
-        return count;
+        return signature;
     }
 }
