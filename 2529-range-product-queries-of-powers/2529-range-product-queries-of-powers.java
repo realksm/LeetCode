@@ -14,9 +14,7 @@ class Solution {
         for(int i = 0; i < m; i++) {
             long prod = 1;
             for(int j = i; j < m; j++) {
-                prod *= powers.get(j);
-                prod %= MOD;
-                rangeProd[i][j] = prod;
+                rangeProd[i][j] = prod = (prod * powers.get(j)) % MOD;
             }
         }
 
