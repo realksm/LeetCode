@@ -8,21 +8,33 @@ class Solution {
             if((n >> i & 1) == 1) powers.add(1L << i);
         }
 
-        for(int i = 0; i < queries.length; i++) {
-            int left = queries[i][0];
-            int right = queries[i][1];
-            
+        int m = powers.size();
+        long[][] rangeProd = new long[m][m];
+
+        for(int i = 0; i < m; i++) {
             long prod = 1;
-            for(int j = left; j <= right; j++) {
+            for(int j = i; j < m; j++) {
                 prod *= powers.get(j);
                 prod %= MOD;
+                rangeProd[i][j] = prod;
             }
-            ans[i] = (int) prod;
         }
 
-        // 1 2 4 8
-        // 1 2 8 64
-        // 2  4  64
+        for(int i = 0; i < queries.length; i++) {
+            ans[i] = (int) rangeProd[queries[i][0]][queries[i][1]];
+        }
+
+        // for(int i = 0; i < queries.length; i++) {
+        //     int left = queries[i][0];
+        //     int right = queries[i][1];
+            
+        //     long prod = 1;
+        //     for(int j = left; j <= right; j++) {
+        //         prod *= powers.get(j);
+        //         prod %= MOD;
+        //     }
+        //     ans[i] = (int) prod;
+        // }
         return ans;
     }
 }
