@@ -122,6 +122,7 @@ Collection of LeetCode questions!
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/realksm/LeetCode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1764-maximum-repeating-substring](https://github.com/realksm/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/realksm/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/realksm/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Matrix
 |  |
