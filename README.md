@@ -27,6 +27,7 @@ Collection of LeetCode questions!
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/realksm/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/realksm/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/realksm/LeetCode/tree/master/0326-power-of-three) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -292,4 +293,5 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/realksm/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/realksm/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
