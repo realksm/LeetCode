@@ -1,16 +1,21 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        char[] ch = num.toCharArray();
         char maxChar = 0;
 
-        for (int i = 0; i <= ch.length - 3; i++) {
-            if (ch[i] == ch[i + 1] && ch[i] == ch[i + 2]) {
-                if (ch[i] > maxChar) {
-                    maxChar = ch[i];
+        for (int i = 0; i <= num.length() - 3; i++) {
+            char c = num.charAt(i);
+            if (c == num.charAt(i + 1) && c == num.charAt(i + 2)) {
+                if (c > maxChar) {
+                    maxChar = c;
+                    if (c == '9')
+                        return "999";
                 }
                 i += 2;
             }
         }
-        return maxChar == 0 ? "" : String.valueOf(maxChar).repeat(3);
+
+        if (maxChar == 0)
+            return "";
+        return new String(new char[] { maxChar, maxChar, maxChar });
     }
 }
