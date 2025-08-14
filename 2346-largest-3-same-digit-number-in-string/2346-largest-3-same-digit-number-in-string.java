@@ -15,6 +15,6 @@ class Solution {
         }
 
         if (maxChar == 0) return "";
-        return new String(new char[] { maxChar, maxChar, maxChar });
+        return String.valueOf(maxChar).repeat(3);
     }
 }
