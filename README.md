@@ -19,6 +19,7 @@ Collection of LeetCode questions!
 | [1764-maximum-repeating-substring](https://github.com/realksm/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/realksm/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
 | ------- |
