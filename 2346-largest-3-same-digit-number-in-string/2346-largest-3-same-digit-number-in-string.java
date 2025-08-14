@@ -13,6 +13,6 @@ class Solution {
                 i += 2;
             }
         }
-        return (maxChar == 0) ? "" : ""  + maxChar + maxChar + maxChar;
+        return (maxChar == 0) ? "" : String.valueOf(maxChar).repeat(3);
     }
 }
