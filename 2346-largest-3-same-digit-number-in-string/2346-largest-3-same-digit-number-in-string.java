@@ -14,8 +14,7 @@ class Solution {
             }
         }
 
-        if (maxChar == 0)
-            return "";
+        if (maxChar == 0) return "";
         return new String(new char[] { maxChar, maxChar, maxChar });
     }
 }
