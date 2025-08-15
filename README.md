@@ -29,6 +29,7 @@ Collection of LeetCode questions!
 | [0231-power-of-two](https://github.com/realksm/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/realksm/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/realksm/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/realksm/LeetCode/tree/master/0342-power-of-four) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/realksm/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/realksm/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -295,4 +297,5 @@ Collection of LeetCode questions!
 | ------- |
 | [0231-power-of-two](https://github.com/realksm/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/realksm/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/realksm/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
