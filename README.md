@@ -38,6 +38,7 @@ Collection of LeetCode questions!
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
 | [1274-number-of-days-between-two-dates](https://github.com/realksm/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/realksm/LeetCode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1448-maximum-69-number](https://github.com/realksm/LeetCode/tree/master/1448-maximum-69-number) |
 | [2083-three-divisors](https://github.com/realksm/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/realksm/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/realksm/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions!
 | [0324-wiggle-sort-ii](https://github.com/realksm/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/realksm/LeetCode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
+| [1448-maximum-69-number](https://github.com/realksm/LeetCode/tree/master/1448-maximum-69-number) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
