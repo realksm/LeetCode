@@ -31,6 +31,7 @@ Collection of LeetCode questions!
 | [0326-power-of-three](https://github.com/realksm/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/realksm/LeetCode/tree/master/0342-power-of-four) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0679-24-game](https://github.com/realksm/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/realksm/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions!
 | [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/realksm/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/realksm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/realksm/LeetCode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions!
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/realksm/LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
