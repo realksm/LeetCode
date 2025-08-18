@@ -1,53 +1,52 @@
-public class Solution {
+class Solution {
+    private static final double EPS = 1e-6;
+
     public boolean judgePoint24(int[] nums) {
-        double[] arr = new double[nums.length];
-        for (int i = 0; i < nums.length; i++) {
-            arr[i] = nums[i];
-        }
-        return dfs(arr, nums.length);
+        double[] A = new double[nums.length];
+        for (int i = 0; i < nums.length; i++) A[i] = nums[i];
+        return backtrack(A, A.length);
     }
 
-    private boolean dfs(double[] nums, int n) {
-        if (n == 1) {
-            return Math.abs(nums[0] - 24.0) < 1e-3;
-        }
+    private boolean backtrack(double[] A, int n) {
+        if (n == 1) return Math.abs(A[0] - 24.0) < EPS;
 
-        // Try every pair of numbers
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                double a = nums[i];
-                double b = nums[j];
+                double a = A[i], b = A[j];
 
-                // store old nums for backtracking
-                double[] next = new double[n - 1];
-                int idx = 0;
-                for (int k = 0; k < n; k++) {
-                    if (k != i && k != j) {
-                        next[idx++] = nums[k];
-                    }
+                // shrink by replacing j with last element
+                A[j] = A[n - 1];
+
+                // 1. addition (only once)
+                A[i] = a + b;
+                if (backtrack(A, n - 1)) return true;
+
+                // 2. multiplication (only once)
+                A[i] = a * b;
+                if (backtrack(A, n - 1)) return true;
+
+                // 3. both subtractions
+                A[i] = a - b;
+                if (backtrack(A, n - 1)) return true;
+
+                A[i] = b - a;
+                if (backtrack(A, n - 1)) return true;
+
+                // 4. both divisions (guard zero)
+                if (Math.abs(b) > EPS) {
+                    A[i] = a / b;
+                    if (backtrack(A, n - 1)) return true;
+                }
+                if (Math.abs(a) > EPS) {
+                    A[i] = b / a;
+                    if (backtrack(A, n - 1)) return true;
                 }
 
-                // Try all possible results
-                for (double val : generate(a, b)) {
-                    next[idx] = val;
-                    if (dfs(next, n - 1)) {
-                        return true;
-                    }
-                }
+                // restore
+                A[i] = a;
+                A[j] = b;
             }
         }
         return false;
-    }
-
-    private double[] generate(double a, double b) {
-        double eps = 1e-6;
-        return new double[]{
-            a + b,
-            a - b,
-            b - a,
-            a * b,
-            Math.abs(b) < eps ? Double.NaN : a / b,
-            Math.abs(a) < eps ? Double.NaN : b / a
-        };
     }
 }
