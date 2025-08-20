@@ -11,10 +11,7 @@ class Solution {
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (A[i][j] == 1 && i > 0 && j > 0) {
-                    A[i][j] = Math.min(
-                        A[i - 1][j - 1],
-                        Math.min(A[i - 1][j], A[i][j - 1])
-                    ) + 1;
+                    A[i][j] = Math.min(A[i - 1][j - 1], Math.min(A[i - 1][j], A[i][j - 1])) + 1;
                 }
                 res += A[i][j];
             }
