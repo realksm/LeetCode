@@ -96,6 +96,7 @@ Collection of LeetCode questions!
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/realksm/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/realksm/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/realksm/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/realksm/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions!
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/realksm/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/realksm/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Tree
 |  |
