@@ -64,6 +64,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/realksm/LeetCode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/realksm/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions!
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/realksm/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0498-diagonal-traverse](https://github.com/realksm/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/realksm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/realksm/LeetCode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0498-diagonal-traverse](https://github.com/realksm/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
