@@ -47,6 +47,7 @@ Collection of LeetCode questions!
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/realksm/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/realksm/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/realksm/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/realksm/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/realksm/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
