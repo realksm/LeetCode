@@ -1,6 +1,6 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        int[][] mask = new int[3][9]; // 0=row, 1=col, 2=box
+        int[] mask = new int[27];
 
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
@@ -11,14 +11,18 @@ class Solution {
                 int bit = 1 << (c - '0');
                 int box = (i / 3) * 3 + (j / 3);
 
-                if ((mask[0][i] & bit) != 0 ||
-                        (mask[1][j] & bit) != 0 ||
-                        (mask[2][box] & bit) != 0)
+                int rowIndex = i;
+                int colIndex = 9 + j;
+                int boxIndex = 18 + box;
+
+                if ((mask[rowIndex] & bit) != 0 ||
+                        (mask[colIndex] & bit) != 0 ||
+                        (mask[boxIndex] & bit) != 0)
                     return false;
 
-                mask[0][i] |= bit;
-                mask[1][j] |= bit;
-                mask[2][box] |= bit;
+                mask[rowIndex] |= bit;
+                mask[colIndex] |= bit;
+                mask[boxIndex] |= bit;
             }
         }
         return true;
