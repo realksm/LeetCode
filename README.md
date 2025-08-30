@@ -72,6 +72,7 @@ Collection of LeetCode questions!
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/realksm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/realksm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/realksm/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions!
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/realksm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0560-subarray-sum-equals-k](https://github.com/realksm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
