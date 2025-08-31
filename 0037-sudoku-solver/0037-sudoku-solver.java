@@ -1,29 +1,36 @@
 class Solution {
     public void solveSudoku(char[][] board) {
-        dfs(board, 0);
+        solve(board, 0, 0);
     }
 
-    public boolean dfs(char[][] board, int cell) {
-        if(cell == 81) return true;
+    public boolean solve(char[][] board, int row, int col) {
+        if (col == board[0].length) {
+            col = 0;
+            row += 1;
+        }
+        if (row == board.length)
+            return true;
 
-        final int i = cell / 9;
-        final int j = cell % 9;
+        if (board[row][col] != '.')
+            return solve(board, row, col + 1);
 
-        if(board[i][j] != '.') return dfs(board, ++cell);
-
-        for(char c = '1'; c <= '9'; ++c) {
-            if(isValid(board, i, j, c)) {
-                board[i][j] = c;
-                if(dfs(board, cell + 1)) return true;
-                board[i][j] = '.';
+        for (char temp = '1'; temp <= '9'; temp++) {
+            if (isSafe(board, row, col, temp)) {
+                board[row][col] = temp;
+                boolean solved = solve(board, row, col + 1);
+                if (solved)
+                    return true;
+                else
+                    board[row][col] = '.';
             }
         }
         return false;
     }
 
-    private boolean isValid(char[][] board, int row, int col, char c) {
-        for(int i = 0; i < 9; i++) {
-            if(board[i][col] == c || board[row][i] == c || board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == c) return false;
+    public boolean isSafe(char[][] board, int row, int col, char c) {
+        for (int i = 0; i < 9; i++) {
+            if (board[i][col] == c || board[row][i] == c || board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == c)
+                return false;
         }
         return true;
     }
