@@ -6,8 +6,8 @@ class Solution {
     public boolean dfs(char[][] board, int cell) {
         if(cell == 81) return true;
 
-        int i = cell / 9;
-        int j = cell % 9;
+        final int i = cell / 9;
+        final int j = cell % 9;
 
         if(board[i][j] != '.') return dfs(board, ++cell);
 
