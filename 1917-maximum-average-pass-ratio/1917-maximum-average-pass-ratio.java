@@ -16,8 +16,7 @@ class Solution {
         }
 
         double sum = 0;
-        for (double[] c : pq)
-            sum += c[1] / c[2];
+        for (double[] c : pq) sum += c[1] / c[2];
         return sum / classes.length;
     }
 
