@@ -8,12 +8,12 @@ class Solution {
 
         for(int i = 0; i < n; i++) {
             int y1 = points[i][1];
-            int yLimit = Integer.MIN_VALUE;
+            int prevY = Integer.MIN_VALUE;
             for(int j = i + 1; j < n; j++) {
                 int y2 = points[j][1];
-                if(y2 <= y1 && y2 > yLimit) {
+                if(y2 <= y1 && y2 > prevY) {
                     count++;
-                    yLimit = y2;
+                    prevY = y2;
                     if(y2 == y1) break;
                 }
             }
