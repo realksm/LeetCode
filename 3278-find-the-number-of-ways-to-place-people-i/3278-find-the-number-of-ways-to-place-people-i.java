@@ -8,7 +8,7 @@ class Solution {
 
         for(int i = 0; i < n; i++) {
             int y1 = points[i][1];
-            int prevY = Integer.MIN_VALUE;
+            int prevY = -1;
             for(int j = i + 1; j < n; j++) {
                 int y2 = points[j][1];
                 if(y2 <= y1 && y2 > prevY) {
