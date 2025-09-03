@@ -1,17 +1,17 @@
 class Solution {
     public int numberOfPairs(int[][] points) {
         Arrays.sort(points, (a, b) -> {
-            return a[0] == b[0] ? a[1] - b[1] : b[0] - a[0];
+            return a[0] == b[0] ? b[1] - a[1] : a[0] - b[0];
         });
         int count = 0;
         int n = points.length;
 
-        for(int i = 0; i < n - 1; i++) {
+        for(int i = 0; i < n; i++) {
             int yi = points[i][1];
-            int prevY = Integer.MAX_VALUE;
+            int prevY = Integer.MIN_VALUE;
             for(int j = i + 1; j < n; j++) {
                 int yj = points[j][1];
-                if(yj >= yi && prevY > yj) {
+                if(yj <= yi && yj > prevY) {
                     count++;
                     prevY = yj;
                     if(yj == yi) break;
