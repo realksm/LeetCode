@@ -1,20 +1,44 @@
 class Solution {
+    private static final int[] POWER_OF_4_MINUS_1 = {
+        0, 3, 15, 63, 255, 1023, 4095, 16383, 65535, 262143, 
+        1048575, 4194303, 16777215, 67108863, 268435455, 1073741823
+    };
+    
     public long minOperations(int[][] queries) {
-        long ans = 0;
-        for(int[] q : queries) {
-            ans += (getOps(q[1]) - getOps(q[0] - 1) + 1) / 2;
+        long totalResult = 0;
+        
+        for (int[] query : queries) {
+            int l = query[0];
+            int r = query[1];
+            totalResult += minOperationsForRange(l, r);
         }
-        return ans;
+        
+        return totalResult;
     }
-
-    private long getOps(int n) {
-        long res = 0;
-        int ops = 0;
-        for(int p4 = 1; p4 <= n; p4 *= 4) {
-            final int l = p4;
-            final int r = Math.min(n, p4 * 4 - 1);
-            res += (long) (r - l + 1) * ++ops;
+    
+    private long minOperationsForRange(int l, int r) {
+        long totalOperations = 0;
+        
+        int current = l;
+        while (current <= r) {
+            int opsNeeded = getOperationsNeeded(current);
+            
+            long rangeEnd = Math.min(r, (long)POWER_OF_4_MINUS_1[opsNeeded]);
+            long count = rangeEnd - current + 1;
+            
+            totalOperations += count * opsNeeded;
+            current = (int)(rangeEnd + 1);
         }
-        return res;
+        
+        return (totalOperations + 1) / 2;
+    }
+    
+    private int getOperationsNeeded(int x) {
+        for (int i = 1; i < POWER_OF_4_MINUS_1.length; i++) {
+            if (x <= POWER_OF_4_MINUS_1[i]) {
+                return i;
+            }
+        }
+        return POWER_OF_4_MINUS_1.length - 1;
     }
 }
