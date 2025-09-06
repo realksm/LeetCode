@@ -91,6 +91,7 @@ Collection of LeetCode questions!
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/realksm/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions!
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/realksm/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions!
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/realksm/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
