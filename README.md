@@ -98,6 +98,7 @@ Collection of LeetCode questions!
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1983-maximum-population-year](https://github.com/realksm/LeetCode/tree/master/1983-maximum-population-year) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/realksm/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/realksm/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/realksm/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions!
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/realksm/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/realksm/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/realksm/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Data Stream
 |  |
 | ------- |
