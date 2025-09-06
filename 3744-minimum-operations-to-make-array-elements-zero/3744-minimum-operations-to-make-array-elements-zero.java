@@ -11,8 +11,8 @@ class Solution {
         long res = 0;
         int ops = 0;
         for(int p4 = 1; p4 <= n; p4 *= 4) {
-            int l = p4;
-            int r = Math.min(n, p4 * 4 - 1);
+            final int l = p4;
+            final int r = Math.min(n, p4 * 4 - 1);
             res += (long) (r - l + 1) * ++ops;
         }
         return res;
