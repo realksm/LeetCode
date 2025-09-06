@@ -2,7 +2,8 @@ class Solution {
     public String longestSubsequenceRepeatedK(String s, int k) {
         String ans = "";
         int[] count = new int[26];
-        Queue<String> q = new ArrayDeque<>(List.of(""));
+        Queue<String> q = new ArrayDeque<>();
+        q.add("");
 
         for (final char c : s.toCharArray())
             ++count[c - 'a'];
