@@ -2,9 +2,7 @@ class Solution {
     public long minOperations(int[][] queries) {
         long ans = 0;
         for(int[] q : queries) {
-            int l = q[0];
-            int r = q[1];
-            ans += (getOps(r) - getOps(l - 1) + 1) / 2;
+            ans += (getOps(q[1]) - getOps(q[0] - 1) + 1) / 2;
         }
         return ans;
     }
