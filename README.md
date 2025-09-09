@@ -36,6 +36,7 @@ Collection of LeetCode questions!
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/realksm/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions!
 | [0679-24-game](https://github.com/realksm/LeetCode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions!
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/realksm/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
+| [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/realksm/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -274,6 +277,7 @@ Collection of LeetCode questions!
 ## Geometry
 |  |
 | ------- |
+| [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/realksm/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/realksm/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/realksm/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
