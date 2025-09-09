@@ -341,6 +341,7 @@ Collection of LeetCode questions!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/realksm/LeetCode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/realksm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Heap (Priority Queue)
@@ -384,6 +385,7 @@ Collection of LeetCode questions!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/realksm/LeetCode/tree/master/0155-min-stack) |
 | [1628-count-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
