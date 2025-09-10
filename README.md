@@ -104,6 +104,7 @@ Collection of LeetCode questions!
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/realksm/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/realksm/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1983-maximum-population-year](https://github.com/realksm/LeetCode/tree/master/1983-maximum-population-year) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions!
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/realksm/LeetCode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1448-maximum-69-number](https://github.com/realksm/LeetCode/tree/master/1448-maximum-69-number) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/realksm/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/realksm/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions!
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/realksm/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/realksm/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
