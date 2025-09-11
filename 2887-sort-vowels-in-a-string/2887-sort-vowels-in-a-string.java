@@ -8,17 +8,14 @@ class Solution {
             if (isVowel(c))
                 count++;
 
-        // Extract vowels
         char[] vowels = new char[count];
         int idx = 0;
         for (char c : chars)
             if (isVowel(c))
                 vowels[idx++] = c;
-
-        // Sort vowels
+        
         Arrays.sort(vowels);
 
-        // Rebuild string with sorted vowels
         idx = 0;
         for (int i = 0; i < n; i++)
             if (isVowel(chars[i]))
