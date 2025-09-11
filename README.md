@@ -21,6 +21,7 @@ Collection of LeetCode questions!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/realksm/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/realksm/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/realksm/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Collection of LeetCode questions!
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/realksm/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/realksm/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/realksm/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/realksm/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
