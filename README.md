@@ -100,6 +100,7 @@ Collection of LeetCode questions!
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/realksm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/realksm/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions!
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/realksm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/realksm/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/realksm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1983-maximum-population-year](https://github.com/realksm/LeetCode/tree/master/1983-maximum-population-year) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/realksm/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Segment Tree
