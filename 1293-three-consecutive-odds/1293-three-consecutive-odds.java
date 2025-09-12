@@ -4,7 +4,7 @@ class Solution {
 
         int i = 2;
         for(;i < arr.length; i++) {
-            if((arr[i - 2] & 1) + (arr[i - 1] & 1) + (arr[i] & 1) == 3) return true;
+            if(((arr[i - 2] & arr[i - 1] & arr[i]) & 1) == 1) return true;
         }
         return false;
     }
