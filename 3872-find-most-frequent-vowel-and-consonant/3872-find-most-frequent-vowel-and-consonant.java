@@ -1,14 +1,12 @@
 class Solution {
     public int maxFreqSum(String s) {
         int[] freq = new int[26];
-        int maxVowel = 0, maxConsonant = 0;
+        int[] max = new int[2];
         for(char c : s.toCharArray()) {
             freq[c - 'a']++;
-            switch(c) {
-                case 'a', 'e', 'i', 'o', 'u' -> maxVowel = Math.max(maxVowel, freq[c - 'a']);
-                default -> maxConsonant = Math.max(maxConsonant, freq[c - 'a']);
-            }
+            int idx = (((1 << (c - 'a')) & 0x104111) != 0) ? 1 : 0;
+            if (freq[c - 'a'] > max[idx]) max[idx] = freq[c - 'a'];
         }
-        return maxVowel + maxConsonant;
+        return max[0] + max[1];
     }
 }
