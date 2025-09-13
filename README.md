@@ -255,6 +255,7 @@ Collection of LeetCode questions!
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/realksm/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/realksm/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/realksm/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -429,4 +430,8 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/realksm/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/realksm/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
