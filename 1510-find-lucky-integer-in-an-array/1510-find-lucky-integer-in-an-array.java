@@ -1,15 +1,13 @@
 class Solution {
     public int findLucky(int[] arr) {
-        int[] count = new int[501];
-        int max = 0;
-        for (int num : arr) {
-            count[num]++;
-            max = Math.max(max, num);
-        }
-        for (int i = max; i > 0; i--) {
-            if (count[i] == i)
-                return i;
-        }
+        int[] count = new int[arr.length + 1];
+
+        for (final int a : arr)
+            if (a <= arr.length) ++count[a];
+
+        for (int i = arr.length; i >= 1; --i)
+            if (count[i] == i) return i;
+
         return -1;
     }
 }
