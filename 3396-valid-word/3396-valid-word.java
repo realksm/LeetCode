@@ -1,29 +1,24 @@
 class Solution {
+    private static final int VOWEL_MASK = 1065233;
+
     public boolean isValid(String word) {
         int n = word.length();
         if (n < 3)
             return false;
 
-        boolean hasVowel = false;
-        boolean hasConsonant = false;
+        int flags = 0;
 
         for (int i = 0; i < n; i++) {
             char c = word.charAt(i);
+            if (!Character.isLetterOrDigit(c)) return false;
 
-            if (!Character.isLetterOrDigit(c))
-                return false;
-
-            if (Character.isLetter(c)) {
-                char lower = (char) (c | 32);
-                if (isVowel(lower)) {
-                    hasVowel = true;
-                } else {
-                    hasConsonant = true;
-                }
-            }
+            int isLetter = Character.isLetter(c) ? 1 : 0;
+            char lower = (char) (c | 32);
+            int isVowel = isLetter & (((VOWEL_MASK >> (lower - 'a')) & 1));
+            flags |= isVowel;
+            flags |= (isLetter & (1 - isVowel)) << 1;
         }
-
-        return hasVowel && hasConsonant;
+        return flags == 3;
     }
 
     private boolean isVowel(char c) {
