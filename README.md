@@ -27,6 +27,7 @@ Collection of LeetCode questions!
 | [3396-valid-word](https://github.com/realksm/LeetCode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/realksm/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/realksm/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/realksm/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/realksm/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -199,6 +200,7 @@ Collection of LeetCode questions!
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/realksm/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/realksm/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/realksm/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3618-find-the-original-typed-string-ii](https://github.com/realksm/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/realksm/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/realksm/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
@@ -345,6 +347,7 @@ Collection of LeetCode questions!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/realksm/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/realksm/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3618-find-the-original-typed-string-ii](https://github.com/realksm/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/realksm/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Brainteaser
 |  |
