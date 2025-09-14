@@ -43,8 +43,7 @@ class Solution {
         }
         return new String(chars);
     }
-    private static final int VOWEL_MASK = (1 << 0) | (1 << 4) | (1 << 8) | (1 << 14) | (1 << 20);
     private boolean isVowel(char c) {
-        return ((VOWEL_MASK >> (c - 'a')) & 1) != 0;
+        return ((1065233 >> (c - 'a')) & 1) != 0;
     }
 }
