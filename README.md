@@ -14,6 +14,7 @@ Collection of LeetCode questions!
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
+| [1006-vowel-spellchecker](https://github.com/realksm/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1274-number-of-days-between-two-dates](https://github.com/realksm/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/realksm/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1764-maximum-repeating-substring](https://github.com/realksm/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions!
 | [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/realksm/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/realksm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions!
 | [0782-jewels-and-stones](https://github.com/realksm/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/realksm/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/realksm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
