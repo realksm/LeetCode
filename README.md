@@ -24,6 +24,7 @@ Collection of LeetCode questions!
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/realksm/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/realksm/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3396-valid-word](https://github.com/realksm/LeetCode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/realksm/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/realksm/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
