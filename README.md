@@ -23,6 +23,7 @@ Collection of LeetCode questions!
 | [2140-longest-subsequence-repeated-k-times](https://github.com/realksm/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/realksm/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/realksm/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/realksm/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/realksm/LeetCode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/realksm/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/realksm/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/realksm/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/realksm/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/realksm/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/realksm/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions!
 | [1510-find-lucky-integer-in-an-array](https://github.com/realksm/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/realksm/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/realksm/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/realksm/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -383,12 +386,14 @@ Collection of LeetCode questions!
 | [0155-min-stack](https://github.com/realksm/LeetCode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/realksm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/realksm/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -411,6 +416,7 @@ Collection of LeetCode questions!
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/realksm/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
