@@ -1,39 +1,36 @@
 class FoodRatings {
-    private final Map<String, PriorityQueue<Object[]>> cuisineToHeap = new HashMap<>();
-    private final Map<String, String> foodToCuisine = new HashMap<>();
-    private final Map<String, Integer> foodToRating = new HashMap<>();
+    static class Food {
+        String name, cuisine;
+        int rating;
+        Food(String n, String c, int r) { name = n; cuisine = c; rating = r; }
+    }
+
+    private final Map<String, Food> foodMap = new HashMap<>();
+    private final Map<String, PriorityQueue<Food>> cuisineToHeap = new HashMap<>();
 
     public FoodRatings(String[] foods, String[] cuisines, int[] ratings) {
         for (int i = 0; i < foods.length; i++) {
+            Food f = new Food(foods[i], cuisines[i], ratings[i]);
+            foodMap.put(foods[i], f);
             cuisineToHeap
                 .computeIfAbsent(cuisines[i], k -> new PriorityQueue<>(
-                    (a, b) -> {
-                        int ra = (int) a[0], rb = (int) b[0];
-                        if (ra != rb) return rb - ra; // higher rating first
-                        return ((String) a[1]).compareTo((String) b[1]); // lexicographically smaller first
-                    }))
-                .add(new Object[]{ratings[i], foods[i]});
-            foodToCuisine.put(foods[i], cuisines[i]);
-            foodToRating.put(foods[i], ratings[i]);
+                    (a, b) -> a.rating != b.rating ? b.rating - a.rating : a.name.compareTo(b.name)))
+                .add(f);
         }
     }
 
     public void changeRating(String food, int newRating) {
-        String cuisine = foodToCuisine.get(food);
-        foodToRating.put(food, newRating);
-        cuisineToHeap.get(cuisine).add(new Object[]{newRating, food}); // lazy add
+        Food updated = new Food(food, foodMap.get(food).cuisine, newRating);
+        foodMap.put(food, updated);
+        cuisineToHeap.get(updated.cuisine).add(updated);
     }
 
     public String highestRated(String cuisine) {
-        PriorityQueue<Object[]> heap = cuisineToHeap.get(cuisine);
+        PriorityQueue<Food> pq = cuisineToHeap.get(cuisine);
         while (true) {
-            Object[] top = heap.peek();
-            int rating = (int) top[0];
-            String food = (String) top[1];
-            if (foodToRating.get(food) == rating) {
-                return food;
-            }
-            heap.poll(); // remove stale entry
+            Food top = pq.peek();
+            if (foodMap.get(top.name).rating == top.rating) return top.name;
+            pq.poll();
         }
     }
 }
