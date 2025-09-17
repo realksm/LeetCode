@@ -1,36 +1,32 @@
 class FoodRatings {
-    static class Food {
-        String name, cuisine;
-        int rating;
-        Food(String n, String c, int r) { name = n; cuisine = c; rating = r; }
-    }
+    private record Food(String name, String cuisine, int rating) {}
 
-    private final Map<String, Food> foodMap = new HashMap<>();
-    private final Map<String, PriorityQueue<Food>> cuisineToHeap = new HashMap<>();
+    private final Map<String, Food> foods = new HashMap<>();
+    private final Map<String, PriorityQueue<Food>> cuisineHeaps = new HashMap<>();
 
-    public FoodRatings(String[] foods, String[] cuisines, int[] ratings) {
-        for (int i = 0; i < foods.length; i++) {
-            Food f = new Food(foods[i], cuisines[i], ratings[i]);
-            foodMap.put(foods[i], f);
-            cuisineToHeap
+    public FoodRatings(String[] names, String[] cuisines, int[] ratings) {
+        for (int i = 0; i < names.length; i++) {
+            Food f = new Food(names[i], cuisines[i], ratings[i]);
+            foods.put(names[i], f);
+            cuisineHeaps
                 .computeIfAbsent(cuisines[i], k -> new PriorityQueue<>(
                     (a, b) -> a.rating != b.rating ? b.rating - a.rating : a.name.compareTo(b.name)))
                 .add(f);
         }
     }
 
-    public void changeRating(String food, int newRating) {
-        Food updated = new Food(food, foodMap.get(food).cuisine, newRating);
-        foodMap.put(food, updated);
-        cuisineToHeap.get(updated.cuisine).add(updated);
+    public void changeRating(String name, int newRating) {
+        Food updated = new Food(name, foods.get(name).cuisine(), newRating);
+        foods.put(name, updated);
+        cuisineHeaps.get(updated.cuisine()).add(updated);
     }
 
     public String highestRated(String cuisine) {
-        PriorityQueue<Food> pq = cuisineToHeap.get(cuisine);
+        PriorityQueue<Food> heap = cuisineHeaps.get(cuisine);
         while (true) {
-            Food top = pq.peek();
-            if (foodMap.get(top.name).rating == top.rating) return top.name;
-            pq.poll();
+            Food top = heap.peek();
+            if (foods.get(top.name()).rating() == top.rating()) return top.name();
+            heap.poll();
         }
     }
 }
