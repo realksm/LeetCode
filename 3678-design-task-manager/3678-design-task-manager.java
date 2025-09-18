@@ -1,57 +1,45 @@
 class TaskManager {
-    private static class Task {
-        int userId, taskId, priority;
-
-        Task(int u, int t, int p) {
-            userId = u;
-            taskId = t;
-            priority = p;
-        }
-    }
-
-    private final Map<Integer, Task> taskMap;
-    private final PriorityQueue<Task> maxHeap;
+    private final int[] priorities = new int[100001];
+    private final int[] userIds = new int[100001];
+    private final PriorityQueue<Long> PQ = new PriorityQueue<>((a, b) -> Long.compare(b, a));
 
     public TaskManager(List<List<Integer>> tasks) {
-        taskMap = new HashMap<>();
-        maxHeap = new PriorityQueue<>(
-                (a, b) -> a.priority == b.priority
-                        ? Integer.compare(b.taskId, a.taskId)
-                        : Integer.compare(b.priority, a.priority));
-        for (List<Integer> t : tasks) {
-            add(t.get(0), t.get(1), t.get(2));
+        Arrays.fill(priorities, -1);
+        for (List<Integer> task : tasks) {
+            int userId = task.get(0);
+            int taskId = task.get(1);
+            int priority = task.get(2);
+            priorities[taskId] = priority;
+            userIds[taskId] = userId;
+            PQ.offer(((long) priority) * 100001 + taskId);
         }
     }
 
     public void add(int userId, int taskId, int priority) {
-        Task t = new Task(userId, taskId, priority);
-        taskMap.put(taskId, t);
-        maxHeap.offer(t);
+        if (priorities[taskId] != -1) return; // already exists
+        priorities[taskId] = priority;
+        userIds[taskId] = userId;
+        PQ.offer(((long) priority) * 100001 + taskId);
     }
 
     public void edit(int taskId, int newPriority) {
-        Task old = taskMap.get(taskId);
-        if (old == null)
-            return;
-        Task updated = new Task(old.userId, taskId, newPriority);
-        taskMap.put(taskId, updated);
-        maxHeap.offer(updated);
+        if (priorities[taskId] == -1) return; // doesn't exist
+        priorities[taskId] = newPriority;
+        PQ.offer(((long) newPriority) * 100001 + taskId);
     }
 
     public void rmv(int taskId) {
-        taskMap.remove(taskId);
+        priorities[taskId] = -1;
     }
 
     public int execTop() {
-        while (!maxHeap.isEmpty()) {
-            Task top = maxHeap.poll();
-            Task valid = taskMap.get(top.taskId);
-            if (valid != null
-                    && valid.priority == top.priority
-                    && valid.userId == top.userId) {
-                taskMap.remove(top.taskId);
-                return top.userId;
-            }
+        while (!PQ.isEmpty()) {
+            long current = PQ.poll();
+            int taskId = (int) (current % 100001);
+            int priority = (int) (current / 100001);
+            if (priorities[taskId] != priority) continue; // outdated
+            priorities[taskId] = -1;
+            return userIds[taskId];
         }
         return -1;
     }
