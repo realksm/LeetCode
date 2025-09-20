@@ -156,6 +156,7 @@ Collection of LeetCode questions!
 | [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/realksm/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/realksm/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/realksm/LeetCode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Collection of LeetCode questions!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/realksm/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/realksm/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/realksm/LeetCode/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Collection of LeetCode questions!
 | [3678-design-task-manager](https://github.com/realksm/LeetCode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/realksm/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/realksm/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/realksm/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/realksm/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -403,6 +406,7 @@ Collection of LeetCode questions!
 | [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/realksm/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/realksm/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/realksm/LeetCode/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -438,6 +442,7 @@ Collection of LeetCode questions!
 | [3678-design-task-manager](https://github.com/realksm/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/realksm/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/realksm/LeetCode/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -466,6 +471,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/realksm/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/realksm/LeetCode/tree/master/3827-implement-router) |
 ## Trie
 |  |
 | ------- |
