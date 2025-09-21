@@ -124,6 +124,7 @@ Collection of LeetCode questions!
 | [1834-minimum-number-of-people-to-teach](https://github.com/realksm/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1983-maximum-population-year](https://github.com/realksm/LeetCode/tree/master/1983-maximum-population-year) |
+| [2023-design-movie-rental-system](https://github.com/realksm/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/realksm/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/realksm/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions!
 | [1813-maximum-erasure-value](https://github.com/realksm/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/realksm/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2023-design-movie-rental-system](https://github.com/realksm/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/realksm/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2689-rearranging-fruits](https://github.com/realksm/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -403,6 +405,7 @@ Collection of LeetCode questions!
 | [0155-min-stack](https://github.com/realksm/LeetCode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/realksm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2023-design-movie-rental-system](https://github.com/realksm/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/realksm/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/realksm/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -412,6 +415,7 @@ Collection of LeetCode questions!
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/realksm/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/realksm/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/realksm/LeetCode/tree/master/3678-design-task-manager) |
@@ -438,6 +442,7 @@ Collection of LeetCode questions!
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/realksm/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/realksm/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/realksm/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
