@@ -99,6 +99,7 @@ Collection of LeetCode questions!
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/realksm/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/realksm/LeetCode/tree/master/0120-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/realksm/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0498-diagonal-traverse](https://github.com/realksm/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/realksm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions!
 | [0091-decode-ways](https://github.com/realksm/LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/realksm/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/realksm/LeetCode/tree/master/0120-triangle) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/realksm/LeetCode/tree/master/0867-new-21-game) |
