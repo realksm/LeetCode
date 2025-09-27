@@ -45,6 +45,7 @@ Collection of LeetCode questions!
 | [0375-guess-number-higher-or-lower-ii](https://github.com/realksm/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0679-24-game](https://github.com/realksm/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/realksm/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/realksm/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/realksm/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/realksm/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions!
 | [0679-24-game](https://github.com/realksm/LeetCode/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
 | [0749-shortest-completing-word](https://github.com/realksm/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0830-largest-triangle-area](https://github.com/realksm/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions!
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/realksm/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/realksm/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/realksm/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
