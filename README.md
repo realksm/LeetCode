@@ -115,6 +115,7 @@ Collection of LeetCode questions!
 | [0940-fruit-into-baskets](https://github.com/realksm/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/realksm/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/realksm/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/realksm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/realksm/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions!
 | [0867-new-21-game](https://github.com/realksm/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/realksm/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1086-divisor-game](https://github.com/realksm/LeetCode/tree/master/1086-divisor-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/realksm/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1334-sum-of-numbers-with-units-digit-k](https://github.com/realksm/LeetCode/tree/master/1334-sum-of-numbers-with-units-digit-k) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/realksm/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
