@@ -106,6 +106,7 @@ Collection of LeetCode questions!
 | [0118-pascals-triangle](https://github.com/realksm/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/realksm/LeetCode/tree/master/0120-triangle) |
 | [0324-wiggle-sort-ii](https://github.com/realksm/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/realksm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/realksm/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/realksm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/realksm/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions!
 | [0036-valid-sudoku](https://github.com/realksm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/realksm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/realksm/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/realksm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/realksm/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
 | [0928-surface-area-of-3d-shapes](https://github.com/realksm/LeetCode/tree/master/0928-surface-area-of-3d-shapes) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/realksm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/realksm/LeetCode/tree/master/0733-flood-fill) |
 | [2121-find-if-path-exists-in-graph](https://github.com/realksm/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/realksm/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -434,6 +437,7 @@ Collection of LeetCode questions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/realksm/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/realksm/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/realksm/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/realksm/LeetCode/tree/master/2023-design-movie-rental-system) |
