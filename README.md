@@ -67,6 +67,7 @@ Collection of LeetCode questions!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/realksm/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/realksm/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/realksm/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/realksm/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/realksm/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/realksm/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/realksm/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions!
 | [2408-number-of-people-aware-of-a-secret](https://github.com/realksm/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3336-water-bottles-ii](https://github.com/realksm/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
