@@ -72,6 +72,7 @@ Collection of LeetCode questions!
 | [3704-count-partitions-with-even-sum-difference](https://github.com/realksm/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/realksm/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/realksm/LeetCode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/realksm/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/realksm/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/realksm/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/realksm/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/realksm/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions!
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/realksm/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/realksm/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/realksm/LeetCode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/realksm/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +238,7 @@ Collection of LeetCode questions!
 | [3618-find-the-original-typed-string-ii](https://github.com/realksm/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/realksm/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/realksm/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/realksm/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -530,4 +534,9 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/realksm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/realksm/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/realksm/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
