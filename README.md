@@ -17,6 +17,7 @@ Collection of LeetCode questions!
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1006-vowel-spellchecker](https://github.com/realksm/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1274-number-of-days-between-two-dates](https://github.com/realksm/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/realksm/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/realksm/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1764-maximum-repeating-substring](https://github.com/realksm/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/realksm/LeetCode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/realksm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/realksm/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/realksm/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/realksm/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/realksm/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/realksm/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions!
 | [0935-orderly-queue](https://github.com/realksm/LeetCode/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/realksm/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/realksm/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/realksm/LeetCode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/realksm/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/realksm/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -386,6 +389,7 @@ Collection of LeetCode questions!
 | [1006-vowel-spellchecker](https://github.com/realksm/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/realksm/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/realksm/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/realksm/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1487-cinema-seat-allocation](https://github.com/realksm/LeetCode/tree/master/1487-cinema-seat-allocation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/realksm/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/realksm/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
