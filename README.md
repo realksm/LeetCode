@@ -32,6 +32,7 @@ Collection of LeetCode questions!
 | [3462-vowels-game-in-a-string](https://github.com/realksm/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/realksm/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/realksm/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/realksm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/realksm/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/realksm/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -74,6 +75,7 @@ Collection of LeetCode questions!
 | [3462-vowels-game-in-a-string](https://github.com/realksm/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/realksm/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/realksm/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/realksm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/realksm/LeetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/realksm/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
@@ -101,6 +103,7 @@ Collection of LeetCode questions!
 | [2551-apply-operations-to-an-array](https://github.com/realksm/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/realksm/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/realksm/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/realksm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/realksm/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/realksm/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
@@ -364,6 +367,7 @@ Collection of LeetCode questions!
 | [2083-three-divisors](https://github.com/realksm/LeetCode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/realksm/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/realksm/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/realksm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -547,6 +551,7 @@ Collection of LeetCode questions!
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/realksm/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/realksm/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/realksm/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
